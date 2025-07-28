@@ -20,7 +20,7 @@ This chatBot is a user-friendly news research tool designed for effortless infor
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/news_research_tool_project.git
+  git clone https://github.com/swapna75/news_research_tool_project.git
 ```
 2.Navigate to the project directory:
 
